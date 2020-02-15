@@ -1,5 +1,5 @@
 # rouletteData
-rouletteData(php+mysql)轮盘微信小程序的后端数据：
+rouletteData(php+mysql)轮盘微信小程序的后端数据：<br/>
 前言：这个后端的php+mysql文件要有Apache+Mysql的环境才能运行，那么我来给大家简单说一下要怎样才能把这个后端数据跑起来吧！
 
 1. 安装phpStudy=>打开桌面快捷方式=>Mysql管理器=>phpMyAdmin=>登录Mysql。
