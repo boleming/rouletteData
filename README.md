@@ -25,5 +25,5 @@ INSERT INTO `imgs` VALUES (4, 'bottom', 'https://raw.githubusercontent.com/bolem
 COMMIT;
 ```
 注：也可以导入rouletteData.sql文件
-4.将rouletteData文件存放到www文件夹下运行即可
+4. 将rouletteData文件存放到www文件夹下运行即可。<br/>
 后记：我已经做好了一个本地运行的轮盘小项目，但为了更好地模拟真实的项目才着手写了PHP接口以及mysql的代码。
